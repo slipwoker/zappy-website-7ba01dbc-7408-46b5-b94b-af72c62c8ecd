@@ -7,25 +7,25 @@
 ## Pages
 
 ### בית
-https://example.com
+https://shulamit-architecture-and-inte.zappy5.app
 היכנסו לעולם שבו קווים גיאומטריים פוגשים דיוק מודרני. דף הכניסה שלנו משלב אלגנטיות אדריכלית עם השראה מתכניות בניין — התחילו לעצב את החלומות שלכם עוד היום.
 
 ### תודה שפניתם אלינו
-https://example.com/thank-you
+https://shulamit-architecture-and-inte.zappy5.app/thank-you
 שולמית אדריכלות ועיצוב פנים - תודה שפניתם אלינו
 
 ## Legal & Policy
 
 ### Privacy Policy
-https://example.com/privacy
+https://shulamit-architecture-and-inte.zappy5.app/privacy
 Information about how user data is collected, stored, and protected.
 
 ### Terms & Conditions
-https://example.com/terms
+https://shulamit-architecture-and-inte.zappy5.app/terms
 Legal terms describing service usage, rights, and policies.
 
 ### Accessibility Statement
-https://example.com/accessibility
+https://shulamit-architecture-and-inte.zappy5.app/accessibility
 Information about WCAG compliance and accessibility features.
 
 ---
@@ -38,8 +38,8 @@ Information about WCAG compliance and accessibility features.
 - Address: רבן יוחנן בן זכאי 92, אלעד, מרכז, ישראל
 
 ### Contact form
-- URL: https://example.com
-- Endpoint: https://example.com/api/email/contact-form
+- URL: https://shulamit-architecture-and-inte.zappy5.app
+- Endpoint: https://shulamit-architecture-and-inte.zappy5.app/api/email/contact-form
 - Method: POST
 - Content-Type: application/json
 - Fields:
@@ -69,6 +69,6 @@ Architecture
 
 # Machine-readable feeds
 
-- Sitemap (XML): https://example.com/sitemap.xml
-- Robots: https://example.com/robots.txt
-- Flattened page text (for LLMs): https://example.com/llms-full.txt
+- Sitemap (XML): https://shulamit-architecture-and-inte.zappy5.app/sitemap.xml
+- Robots: https://shulamit-architecture-and-inte.zappy5.app/robots.txt
+- Flattened page text (for LLMs): https://shulamit-architecture-and-inte.zappy5.app/llms-full.txt
