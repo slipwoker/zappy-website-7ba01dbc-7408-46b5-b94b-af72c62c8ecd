@@ -32,7 +32,10 @@ Information about WCAG compliance and accessibility features.
 
 ## How to Contact Us
 
-- (No contact details configured yet.)
+- Email: shuli4950@gmail.com
+- Phone: 0583266821
+- Phone (tel): tel:0583266821
+- Address: רבן יוחנן בן זכאי 92, אלעד, מרכז, ישראל
 
 ### Contact form
 - URL: https://example.com
