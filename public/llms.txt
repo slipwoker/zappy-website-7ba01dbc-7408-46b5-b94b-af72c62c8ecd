@@ -1,0 +1,71 @@
+# שולמית אדריכלות ועיצוב פנים — Generative Engine Optimization Map
+
+> A striking login page inspired by architectural design elements — featuring geometric lines, structural motifs, and a clean modern aesthetic. The visual language draws from architectural blueprints and contemporary design, combining precision and elegance with a modern color palette.
+
+---
+
+## Pages
+
+### בית
+https://-7ba01dbc.zappy5.app
+היכנסו לעולם שבו קווים גיאומטריים פוגשים דיוק מודרני. דף הכניסה שלנו משלב אלגנטיות אדריכלית עם השראה מתכניות בניין — התחילו לעצב את החלומות שלכם עוד היום.
+
+### תודה שפניתם אלינו
+https://-7ba01dbc.zappy5.app/thank-you
+שולמית אדריכלות ועיצוב פנים - תודה שפניתם אלינו
+
+## Legal & Policy
+
+### Privacy Policy
+https://-7ba01dbc.zappy5.app/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://-7ba01dbc.zappy5.app/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://-7ba01dbc.zappy5.app/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+## How to Contact Us
+
+- (No contact details configured yet.)
+
+### Contact form
+- URL: https://-7ba01dbc.zappy5.app
+- Endpoint: https://-7ba01dbc.zappy5.app/api/email/contact-form
+- Method: POST
+- Content-Type: application/json
+- Fields:
+  - `name` (text)
+  - `email` (email)
+  - `phone` (tel)
+  - `message` (textarea)
+  - `privacy_consent` (checkbox)
+
+---
+
+# Business Context (for LLM understanding)
+
+## About שולמית אדריכלות ועיצוב פנים
+A striking login page inspired by architectural design elements — featuring geometric lines, structural motifs, and a clean modern aesthetic. The visual language draws from architectural blueprints and contemporary design, combining precision and elegance with a modern color palette.
+
+## Target Audience
+- שותפים למשרדי אדריכלות
+- לקוחות עיצוב פנים יוקרתיים
+- יזמי נדל"ן
+- לקוחות אדריכלות
+
+## Industry
+Architecture
+
+---
+
+# Machine-readable feeds
+
+- Sitemap (XML): https://-7ba01dbc.zappy5.app/sitemap.xml
+- Robots: https://-7ba01dbc.zappy5.app/robots.txt
+- Flattened page text (for LLMs): https://-7ba01dbc.zappy5.app/llms-full.txt
